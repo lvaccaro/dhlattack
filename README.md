@@ -3,7 +3,6 @@ Delivery attack to DHL tracking system.
 
 
 DHL use a random generated 6 alphanumeric chars to index and notify the shipment.
-
 There is no captcha and no authentication methods.
 
 
